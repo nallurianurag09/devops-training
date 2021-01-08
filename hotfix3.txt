@@ -1,0 +1,1 @@
+test how hotfix file 2 source changed to master and not linked to hotfix branch
